@@ -4,10 +4,9 @@ export default class Comment extends Component {
 
   render() {
     return (
-      <div className="Comment">
+      <div className="comment">
         {/* your conditional code here! */}
       </div>
     )
   }
-
 }
